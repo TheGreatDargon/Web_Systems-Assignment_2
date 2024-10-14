@@ -27,9 +27,15 @@ body {
 .Messages {
     margin-left: 30px;
 }
-.header img {
+.twitter_icon {
     position: absolute;
     left: 50%;
+    width: 50px;
+    height: 50px;
+}
+.tweet_icon {
+    position: absolute;
+    left: 100%;
     width: 50px;
     height: 50px;
 }
