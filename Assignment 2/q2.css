@@ -3,9 +3,10 @@ body {
 }
 .flex-container {
     display: flex;
-    flex-direction: row;
 }
 .header {
+    display: flex;
+    flex-direction: row;
     background-color: white;
     height: 50px;
     width: 100%;
