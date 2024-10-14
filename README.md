@@ -43,11 +43,11 @@ Hint: 4 cards on top row and 4 cards at the bottom row.
 To turn in your assignment
 
 - If you did it right, you should be having.
-- - 1 HTML + 1 CSS for Question 1. The names of these files are q1.html and q1.css.
-- - 1 HTML + 1 CSS for Question 2. The names of these files are q2.html and q2.css.
-- - One folder with all the images used in Question 1 and Question 2.
-- - Screenshot showing completion of Question 3.
-- - Screenshot showing completion of Question 4.
+  - 1 HTML + 1 CSS for Question 1. The names of these files are q1.html and q1.css.
+  - 1 HTML + 1 CSS for Question 2. The names of these files are q2.html and q2.css.
+  - One folder with all the images used in Question 1 and Question 2.
+  - Screenshot showing completion of Question 3.
+  - Screenshot showing completion of Question 4.
 - Take all these folders + files and zip them.
 - Finally, upload this one zipped folder.
 - DO NOT use absolute file paths. Use relative paths. Students using absolute paths will receive a zero.
