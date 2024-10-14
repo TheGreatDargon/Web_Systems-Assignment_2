@@ -51,11 +51,11 @@ body {
     height: 100px;
     width: 100px;
 }
-.banner {
+.banner img {
     width: 100%;
     height: 34px;
 }
-.profile_pic {
+.profile_pic img {
     width: 12px;
     height: 12px;
 }
