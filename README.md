@@ -33,7 +33,23 @@ Hint: 4 cards on top row and 4 cards at the bottom row.
 - Use the shading property for the cards.
 - Use rounded borders for each card as shown.
 - Include @media query to add some responsive design to the webpage containing these cards.
-- When the browser width is 50% or less, resize the cards to include only two cards per row.
-- When the browser width is 25% or less, resize the cards to include only one card per row.
+- - When the browser width is 50% or less, resize the cards to include only two cards per row.
+- - When the browser width is 25% or less, resize the cards to include only one card per row.
 
 2. For the next question, you will create a replica of Twitter’s website as shown in the image below. The website should also be responsive such that if the browser window is reduced, the “Who to follow” section will not be visible. You can use your images. The assignment question is adapted from CSCI 1320 at Brown University. Feel free to refer to this link for additional information on how to complete this question: [Link](https://cs.brown.edu/courses/csci1320/assignments/assignment1/assignment1.html) Links to an external site..  6 points
+3. Play [Flexbox Froggy](https://flexboxfroggy.com/) Links to an external site.. Attach a screenshot for the final webpage showing that you completed the exercise.  3 points
+4. Play [Grid Garden](https://cssgridgarden.com/)Links to an external site.. Attach a screenshot for the final webpage showing that you completed the exercise.  3 points
+
+To turn in your assignment
+
+- If you did it right, you should be having.
+- - 1 HTML + 1 CSS for Question 1. The names of these files are q1.html and q1.css.
+- - 1 HTML + 1 CSS for Question 2. The names of these files are q2.html and q2.css.
+- - One folder with all the images used in Question 1 and Question 2.
+- - Screenshot showing completion of Question 3.
+- - Screenshot showing completion of Question 4.
+- Take all these folders + files and zip them.
+- Finally, upload this one zipped folder.
+- DO NOT use absolute file paths. Use relative paths. Students using absolute paths will receive a zero.
+
+Assignments not following the correct instructions will be graded a zero. 
