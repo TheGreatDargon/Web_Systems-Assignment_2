@@ -50,8 +50,9 @@ body {
 
 .profile {
     background-color: white;
-    height: 100px;
+    height: 200px;
     width: 200px;
+    margin-top: 20px;
 }
 .banner img {
     width: 100%;
