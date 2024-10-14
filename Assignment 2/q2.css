@@ -7,3 +7,19 @@ body {
     height: 20px;
     width: 100%;
 }
+.Home {
+    justify-content: center;
+    margin: 40px;
+}
+.Moments {
+    justify-content: center;
+    margin: 40px;
+}
+.Notifications {
+    justify-content: center;
+    margin: 40px;
+}
+.Messages {
+    justify-content: center;
+    margin: 40px;
+}
