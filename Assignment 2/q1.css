@@ -7,8 +7,8 @@
 body {
     background-color: black;
 }
-.flex-container{
-    display: flex;
+.grid-container{
+    display: grid;
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 100px;
@@ -23,17 +23,17 @@ body {
     margin: 2px;
     transition: 0.6s;
 }
-@media screen and (width > 50%) {
+@media screen and (width > 801px) {
     .card {
         width: 20%;
     }
 }
-@media screen and (25% < width <= 50%) {
+@media screen and (401px < width <= 800px) {
     .card {
         width: 49%;
     }
 }
-@media screen and (width < 25%) {
+@media screen and (width < 400px) {
     .card {
         width: 100%;
     }
