@@ -8,18 +8,22 @@ body {
     width: 100%;
 }
 .Home {
+    display: flex;
+    gap: 10 30px;
     justify-content: center;
-    margin-left: 30px;
 }
 .Moments {
     justify-content: center;
-    margin-left: 30px;
+    display: flex;
+    gap: 10 30px;
 }
 .Notifications {
     justify-content: center;
-    margin-left: 30px;
+    display: flex;
+    gap: 10 30px;
 }
 .Messages {
     justify-content: center;
-    margin-left: 30px;
+    display: flex;
+    gap: 10 30px;
 }
