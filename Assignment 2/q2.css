@@ -9,21 +9,17 @@ body {
 }
 .Home {
     display: flex;
-    gap: 10 30px;
-    justify-content: center;
+    column-gap: 30px;
 }
 .Moments {
-    justify-content: center;
     display: flex;
-    gap: 10 30px;
+    column-gap: 30px;
 }
 .Notifications {
-    justify-content: center;
     display: flex;
-    gap: 10 30px;
+    column-gap: 30px;
 }
 .Messages {
-    justify-content: center;
     display: flex;
-    gap: 10 30px;
+    column-gap: 30px;
 }
