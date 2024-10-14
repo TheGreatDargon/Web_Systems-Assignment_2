@@ -66,8 +66,19 @@ body {
     margin-top: -25px;
 }
 .profile_name {
+    width: 50px;
+    height: 50px;
     margin-left: 5%;
 }
 .profile_content {
-    
+    display: flex;
+}
+.Tweet_count {
+    width: 33%;
+}
+.Follower_count {
+    width: 33%;
+}
+.Followers {
+    width: 33%;
 }
