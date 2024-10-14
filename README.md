@@ -16,7 +16,7 @@ Criteria: Refer to the rubric to see how many points have been assigned for each
 Questions:
 
 1. Create eight CSS cards for favorite travel destinations. Each card contains an image of a travel destination, with a label below the form “Image of the _______” where you fill the blank with some information. For instance, if you write about the Grand Canyon, include a card that might have an image of a stunning North or South rim or maybe the Horseshoe Bend and a label that reads “IMAGE of the Grand Canyon.” An example image is shown below.  8 points
-   ![Alt text](/images/image1.jpg "a title")
+![Alt text](/images/image1.jpg "a title")
 <br>
 Fulfill these additional requirements:
 - Have the cards sit right next to each other, with minimal gaps as shown below.
@@ -38,6 +38,7 @@ Hint: 4 cards on top row and 4 cards at the bottom row.
   - When the browser width is 25% or less, resize the cards to include only one card per row.
 
 2. For the next question, you will create a replica of Twitter’s website as shown in the image below. The website should also be responsive such that if the browser window is reduced, the “Who to follow” section will not be visible. You can use your images. The assignment question is adapted from CSCI 1320 at Brown University. Feel free to refer to this link for additional information on how to complete this question: [Link](https://cs.brown.edu/courses/csci1320/assignments/assignment1/assignment1.html) Links to an external site..  6 points
+![Alt text](/images/image2.png "a title")
 3. Play [Flexbox Froggy](https://flexboxfroggy.com/) Links to an external site.. Attach a screenshot for the final webpage showing that you completed the exercise.  3 points
 4. Play [Grid Garden](https://cssgridgarden.com/)Links to an external site.. Attach a screenshot for the final webpage showing that you completed the exercise.  3 points
 
