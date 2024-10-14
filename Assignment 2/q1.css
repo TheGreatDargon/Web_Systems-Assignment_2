@@ -27,6 +27,10 @@ body {
     .card {
         width: 20%;
     }
+    .grid-container{
+        grid-template-columns: auto, auto, auto, auto;
+        grid-template-rows: auto, auto, auto, auto;
+    }
 }
 @media screen and (401px < width <= 800px) {
     .card {
