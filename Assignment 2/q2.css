@@ -45,3 +45,9 @@ body {
     display:flex;
     justify-content: center;
 }
+
+.profile {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+}
