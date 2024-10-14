@@ -25,12 +25,12 @@ body {
 }
 @media screen and (width > 50%) {
     .card {
-        width: 25%;
+        width: 24%;
     }
 }
 @media screen and (25% < width <= 50%) {
     .card {
-        width: 50%;
+        width: 49%;
     }
 }
 @media screen and (width < 25%) {
