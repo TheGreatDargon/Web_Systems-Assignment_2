@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body {
+    background-color: black;
+}
 .flex-container{
     display: flex;
     justify-content: center;
@@ -11,7 +14,8 @@
 }
 .card {
     width: 33%;
-    background-color: aliceblue;
+    background-color: white;
+    border: 5px, solid, red;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
