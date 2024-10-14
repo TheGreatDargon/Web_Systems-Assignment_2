@@ -15,7 +15,7 @@ body {
 }
 .card {
     background-color: white;
-    border: 3px, solid, red;
+    border: 3px solid red;
     border-radius: 8px;
 
     overflow: hidden;
