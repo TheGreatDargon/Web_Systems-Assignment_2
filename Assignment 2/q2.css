@@ -43,6 +43,7 @@ body {
 
 .center_content {
     width: 100%;
+    top: 51px;
     display:flex;
     justify-content: center;
 }
