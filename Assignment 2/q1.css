@@ -15,7 +15,7 @@ body {
 .card {
     width: 33%;
     background-color: white;
-    border: 5px, solid, red;
+    border: 3px, solid, red;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
@@ -23,7 +23,7 @@ body {
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 lightgrey;
 }
 
 .container{
