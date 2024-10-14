@@ -23,17 +23,17 @@ body {
     margin: 2px;
     transition: 0.6s;
 }
-@media screen and (min-width:51vw) {
+@media screen and (min-width:601px) {
     .card {
         width: 20%;
     }
 }
-@media screen and (max-width:50vw) and (min-width:25vw) {
+@media screen and (max-width:600px) and (min-width:401px) {
     .card {
         width: 50%;
     }
 }
-@media screen and (max-width:25vw) {
+@media screen and (max-width:400px) {
     .card {
         width: 100%;
     }
