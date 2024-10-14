@@ -26,6 +26,10 @@
 .container{
     padding: 2px 16px;
 }
+.container h4{
+    font-size: 28px;
+    margin-bottom: 8px;
+}
 .card img {
     width: 100%;
     height: auto;
