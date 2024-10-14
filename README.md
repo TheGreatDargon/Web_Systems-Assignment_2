@@ -5,9 +5,9 @@ Knowledge:  This assignment will be used to evaluate the knowledge and understan
 <br>
 Skill: Upon successful completion, you will be able to:
 <br>
--Implement CSS cards.
--Understand Flexbox and CSS grids
--Develop responsive web pages.
+- Implement CSS cards.
+- Understand Flexbox and CSS grids
+- Develop responsive web pages.
 <br>
 Task: Please refer to the slides and lecture recording to answer the questions. Most of the similar HTML tags were discussed in class.
 
@@ -18,22 +18,22 @@ Questions:
 1. Create eight CSS cards for favorite travel destinations. Each card contains an image of a travel destination, with a label below the form “Image of the _______” where you fill the blank with some information. For instance, if you write about the Grand Canyon, include a card that might have an image of a stunning North or South rim or maybe the Horseshoe Bend and a label that reads “IMAGE of the Grand Canyon.” An example image is shown below.  8 points
 <br>
 Fulfill these additional requirements:
--Have the cards sit right next to each other, with minimal gaps as shown below.
--Surround each card with a border design of your choice.
--Give the cards a background color.
--Use class or id-based selectors in your CSS.
--Ensure that all eight cards with border, and all, fit the entire screen when fully expanded.
+- Have the cards sit right next to each other, with minimal gaps as shown below.
+- Surround each card with a border design of your choice.
+- Give the cards a background color.
+- Use class or id-based selectors in your CSS.
+- Ensure that all eight cards with border, and all, fit the entire screen when fully expanded.
 <br>
 Hint: 4 cards on top row and 4 cards at the bottom row.
 
--Give a footer for each card as shown in the image.
--Use external CSS file for styling.
--Keep images organized in a folder.
--You are free to use Flexbox or Grids for this exercise.
--Use the shading property for the cards.
--Use rounded borders for each card as shown.
--Include @media query to add some responsive design to the webpage containing these cards.
--When the browser width is 50% or less, resize the cards to include only two cards per row.
--When the browser width is 25% or less, resize the cards to include only one card per row.
+- Give a footer for each card as shown in the image.
+- Use external CSS file for styling.
+- Keep images organized in a folder.
+- You are free to use Flexbox or Grids for this exercise.
+- Use the shading property for the cards.
+- Use rounded borders for each card as shown.
+- Include @media query to add some responsive design to the webpage containing these cards.
+- When the browser width is 50% or less, resize the cards to include only two cards per row.
+- When the browser width is 25% or less, resize the cards to include only one card per row.
 
 2. For the next question, you will create a replica of Twitter’s website as shown in the image below. The website should also be responsive such that if the browser window is reduced, the “Who to follow” section will not be visible. You can use your images. The assignment question is adapted from CSCI 1320 at Brown University. Feel free to refer to this link for additional information on how to complete this question: [Link](https://cs.brown.edu/courses/csci1320/assignments/assignment1/assignment1.html) Links to an external site..  6 points
