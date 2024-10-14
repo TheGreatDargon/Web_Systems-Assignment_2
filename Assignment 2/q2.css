@@ -1,0 +1,11 @@
+body {
+    background-color: lightgrey;
+}
+.flex-container {
+    display: flex;
+}
+.header {
+    background-color: white;
+    height: 20px;
+    width: 100%;
+}
