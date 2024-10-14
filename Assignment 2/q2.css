@@ -14,14 +14,14 @@ body {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 .Home {
-    column-gap: 30px;
+    margin-left: 30px;
 }
 .Moments {
-    column-gap: 30px;
+    margin-left: 30px;
 }
 .Notifications {
-    column-gap: 30px;
+    margin-left: 30px;
 }
 .Messages {
-    column-gap: 30px;
+    margin-left: 30px;
 }
