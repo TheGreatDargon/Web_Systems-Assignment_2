@@ -28,7 +28,7 @@ body {
 }
 @media screen and (max-width: 800px) and (min-width: 401px) {
     .card {
-        width: 50%;
+        width: 49%;
     }
 }
 
@@ -40,7 +40,7 @@ body {
 
 @media screen and (min-width: 801px) {
     .card {
-        width: 25%;
+        width: 24%;
     }
 }
 
