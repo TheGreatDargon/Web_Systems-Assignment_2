@@ -16,7 +16,7 @@ Criteria: Refer to the rubric to see how many points have been assigned for each
 Questions:
 
 1. Create eight CSS cards for favorite travel destinations. Each card contains an image of a travel destination, with a label below the form “Image of the _______” where you fill the blank with some information. For instance, if you write about the Grand Canyon, include a card that might have an image of a stunning North or South rim or maybe the Horseshoe Bend and a label that reads “IMAGE of the Grand Canyon.” An example image is shown below.  8 points
-   ![Alt text](../images/image1.jpg "a title")
+   ![Alt text](/images/image1.jpg "a title")
 <br>
 Fulfill these additional requirements:
 - Have the cards sit right next to each other, with minimal gaps as shown below.
