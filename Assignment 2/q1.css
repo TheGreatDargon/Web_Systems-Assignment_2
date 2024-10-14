@@ -24,9 +24,6 @@ body {
     transition: 0.6s;
 }
 @media screen and (width > 801px) {
-    .card {
-        width: 20%;
-    }
     .grid-container{
         grid-column: 1 4;
         grid-row: 1 4;
