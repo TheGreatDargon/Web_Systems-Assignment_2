@@ -19,6 +19,7 @@ Questions:
 ![Alt text](/images/image1.jpg "a title")
 <br>
 Fulfill these additional requirements:
+
 - Have the cards sit right next to each other, with minimal gaps as shown below.
 - Surround each card with a border design of your choice.
 - Give the cards a background color.
