@@ -33,8 +33,8 @@ Hint: 4 cards on top row and 4 cards at the bottom row.
 - Use the shading property for the cards.
 - Use rounded borders for each card as shown.
 - Include @media query to add some responsive design to the webpage containing these cards.
-- - When the browser width is 50% or less, resize the cards to include only two cards per row.
-- - When the browser width is 25% or less, resize the cards to include only one card per row.
+  - When the browser width is 50% or less, resize the cards to include only two cards per row.
+  - When the browser width is 25% or less, resize the cards to include only one card per row.
 
 2. For the next question, you will create a replica of Twitter’s website as shown in the image below. The website should also be responsive such that if the browser window is reduced, the “Who to follow” section will not be visible. You can use your images. The assignment question is adapted from CSCI 1320 at Brown University. Feel free to refer to this link for additional information on how to complete this question: [Link](https://cs.brown.edu/courses/csci1320/assignments/assignment1/assignment1.html) Links to an external site..  6 points
 3. Play [Flexbox Froggy](https://flexboxfroggy.com/) Links to an external site.. Attach a screenshot for the final webpage showing that you completed the exercise.  3 points
