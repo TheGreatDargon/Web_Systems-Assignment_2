@@ -36,7 +36,7 @@ body {
 .tweet_icon img {
     position: absolute;
     right: 0%;
-    top: 1%;
+    top: 0%;
     width: 100px;
     height: 100px;
 }
