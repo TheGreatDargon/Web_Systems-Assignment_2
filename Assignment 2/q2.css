@@ -108,6 +108,7 @@ body {
 }
 
 .Posts {
+    background-color: white;
     display: flex;
     flex-direction: column;
     width: 500px;
