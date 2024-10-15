@@ -81,6 +81,10 @@ body {
 .profile_name {
     margin-bottom: 5px;
 }
+.content_details{
+    display: flex;
+    flex-direction: column;
+}
 .Tweet_count {
     width: 33%;
 }
