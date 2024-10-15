@@ -125,6 +125,7 @@ body {
 #post1 {
     display: flex;
     flex-direction: row;
+    align-items: center;
     width: 450px;
     height: 100px;
 }
