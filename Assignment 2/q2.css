@@ -67,7 +67,6 @@ body {
     margin-top: 10px;
 }
 .profile_info {
-    top: 67px;
     display: flex;
     flex-direction: column;
 }
@@ -81,6 +80,8 @@ body {
     height: 67px;
 }
 .profile_name {
+    width: 140px;
+    height: 67px;
     margin-bottom: 5px;
 }
 .content_details{
