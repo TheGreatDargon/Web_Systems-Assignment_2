@@ -93,7 +93,6 @@ body {
     flex-direction: column;
 }
 .profile_name p {
-    color: gray;
     margin-bottom: 0;
     font-size: 14px;
 }
