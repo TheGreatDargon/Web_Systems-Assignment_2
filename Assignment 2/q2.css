@@ -191,6 +191,19 @@ body {
     height: 50px;
 }
 
+
+
+.name_and_follow1 {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+.name_and_follow1 img {
+    width: 50px;
+    height: 20px;
+}
+
 .contact2 {
     display: flex;
     flex-direction: row;
@@ -198,13 +211,13 @@ body {
     height: auto;
 }
 
-.name_and_follow {
+.name_and_follow2 {
     display: flex;
     flex-direction: column;
     width: 250px;
 }
 
-.name_and_follow img {
+.name_and_follow2 img {
     width: 50px;
     height: 20px;
 }
