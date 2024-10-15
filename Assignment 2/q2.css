@@ -204,6 +204,7 @@ body {
 
 .contact1 {
     display: flex;
+    border-bottom: 1px solid gray;
     flex-direction: row;
     align-items: center;
     width: 100%;
@@ -229,6 +230,7 @@ body {
 
 .contact2 {
     display: flex;
+    border-bottom: 1px solid gray;
     flex-direction: row;
     align-items: center;
     width: 100%;
