@@ -89,7 +89,7 @@ body {
     flex-direction: column;
 }
 .profile_name h5 {
-    margin: 0;
+    margin-bottom: 0;
 }
 
 .profile_id {
