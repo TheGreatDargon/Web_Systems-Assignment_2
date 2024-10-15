@@ -93,6 +93,7 @@ body {
     flex-direction: column;
 }
 .profile_name p {
+    color: gray;
     margin-bottom: 0;
     font-size: 14px;
 }
@@ -320,4 +321,8 @@ body {
         width: 50px;
         height: 20px;
     }
+}
+
+.highlight {
+    color: gray;
 }
