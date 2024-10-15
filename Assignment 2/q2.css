@@ -55,28 +55,31 @@ body {
     margin: 20px auto;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    position: relative;
 }
 .banner img {
     width: 200px;
     height: auto;
-}
-.profile_pic img {
-    width: 50px; 
-    height: 50px;
-    margin-left:10%;
-    border-radius: 50%;
-    margin-top: -25px;
-}
-.profile_name {
-    margin-top: 20px;
 }
 .profile_content {
     display: flex;
     justify-content: space-around;
     width: 100%;
     margin-top: 10px;
+}
+.profile_pic{
+    margin-right: 10px;
+}
+.profile_pic img {
+    width: 50px; 
+    height: 50px;
+    border-radius: 50%;
+}
+.profile_info {
+    display: flex;
+    flex-direction: column;
+}
+.profile_name {
+    margin-bottom: 5px;
 }
 .Tweet_count {
     width: 33%;
