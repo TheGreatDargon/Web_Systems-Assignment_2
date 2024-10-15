@@ -197,62 +197,66 @@ body {
     flex-direction: column;
 }
 
-.Who_to_follow {
-    border-bottom: 1px solid lightgray;
-    width: 100%;
-    height: 50px;
-}
+@media screen and (width = 100vw) and (height = 100vh) {
+    
 
-.contact1 {
-    display: flex;
-    border-bottom: 1px solid lightgray;
-    flex-direction: row;
-    align-items: center;
-    width: 100%;
-    height: auto;
-}
+    .Who_to_follow {
+        border-bottom: 1px solid lightgray;
+        width: 100%;
+        height: 50px;
+    }
 
-.contact1 img {
-    margin-right: 5px;
-    width: 50px;
-    height: 50px;
-}
+    .contact1 {
+        display: flex;
+        border-bottom: 1px solid lightgray;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+        height: auto;
+    }
 
-.name_and_follow1 {
-    display: flex;
-    flex-direction: column;
-    width: 250px;
-}
+    .contact1 img {
+        margin-right: 5px;
+        width: 50px;
+        height: 50px;
+    }
 
-.name_and_follow1 img {
-    margin-bottom: 15px;
-    width: 50px;
-    height: 20px;
-}
+    .name_and_follow1 {
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+    }
 
-.contact2 {
-    display: flex;
-    border-bottom: 1px solid lightgray;
-    flex-direction: row;
-    align-items: center;
-    width: 100%;
-    height: auto;
-}
+    .name_and_follow1 img {
+        margin-bottom: 15px;
+        width: 50px;
+        height: 20px;
+    }
 
-.contact2 img {
-    margin-right: 5px;
-    width: 50px;
-    height: 50px;
-}
+    .contact2 {
+        display: flex;
+        border-bottom: 1px solid lightgray;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+        height: auto;
+    }
 
-.name_and_follow2 {
-    margin-bottom: 15px;
-    display: flex;
-    flex-direction: column;
-    width: 250px;
-}
+    .contact2 img {
+        margin-right: 5px;
+        width: 50px;
+        height: 50px;
+    }
 
-.name_and_follow2 img {
-    width: 50px;
-    height: 20px;
+    .name_and_follow2 {
+        margin-bottom: 15px;
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+    }
+
+    .name_and_follow2 img {
+        width: 50px;
+        height: 20px;
+    }
 }
