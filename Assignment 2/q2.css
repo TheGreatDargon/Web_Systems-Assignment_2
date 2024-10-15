@@ -41,7 +41,7 @@ body {
     height: 50px;
 }
 .tweet_icon img {
-    top: -50px;
+    margin-top: -50px;
     width: 100px;
     height: 100px;
 }
