@@ -259,7 +259,7 @@ body {
         height: 20px;
     }
 }
-@media screen and (max-height) and (max-width) {
+@media screen and (max-width: 991px) {
     .Who_to_follow {
         border-bottom: 1px solid lightgray;
         width: 100%;
