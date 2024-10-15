@@ -83,11 +83,13 @@ body {
 }
 
 .profile_name {
+    height: auto;
     display:flex;
     flex-direction: column;
 }
 
 .profile_id {
+    height:auto;
     margin-top: 0;
 }
 
