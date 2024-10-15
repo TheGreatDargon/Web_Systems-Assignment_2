@@ -97,6 +97,10 @@ body {
     margin-top: 0;
 }
 
+.profile_id {
+    margin: 0;
+}
+
 .content_details {
     display: flex; /* Flexbox for the details */
     justify-content: space-between; /* Space items evenly */
