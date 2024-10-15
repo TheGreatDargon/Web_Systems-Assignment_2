@@ -116,5 +116,41 @@ body {
 
 #post1 {
     width: 100%;
-    height: 100px
+    height: 100px;
+}
+#post1 img {
+    height: 50px;
+    width: 50px;
+}
+#post2 {
+    width: 100%;
+    height: 100px;
+}
+#post2 img {
+    height: 50px;
+    width: 50px;
+}
+#post3 {
+    width: 100%;
+    height: 100px;
+}
+#post3 img {
+    height: 50px;
+    width: 50px;
+}
+#post4 {
+    width: 100%;
+    height: 100px;
+}
+#post4 img {
+    height: 50px;
+    width: 50px;
+}
+#post5 {
+    width: 100%;
+    height: 100px;
+}
+#post5 img {
+    height: 50px;
+    width: 50px;
 }
