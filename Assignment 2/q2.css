@@ -197,7 +197,7 @@ body {
     flex-direction: column;
 }
 
-@media screen and (width = 100vw) and (height = 100vh) {
+@media screen and (width = 100%) and (height = 100%) {
     
 
     .Who_to_follow {
