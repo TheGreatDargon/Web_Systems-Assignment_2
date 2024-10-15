@@ -76,10 +76,6 @@ body {
     height: 50px;
 }
 
-.profile_id {
-    margin-top: 5px;
-}
-
 .profile_info {
     display:flex;
     align-items: flex-end;
