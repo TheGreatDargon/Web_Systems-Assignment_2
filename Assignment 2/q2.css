@@ -93,6 +93,8 @@ body {
 }
 
 .profile_name {
+    width: 100px;
+    height: 16px;
     margin-bottom: 5px; /* Space below the name */
 }
 
