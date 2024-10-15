@@ -32,13 +32,10 @@ body {
     color:gray;
 }
 .twitter_icon img {
-    left: 50%;
     width: 50px;
     height: 50px;
 }
 .tweet_icon img {
-    top: -25px;
-    right: 0%;
     width: 100px;
     height: 100px;
 }
