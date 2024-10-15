@@ -84,7 +84,8 @@ body {
 }
 
 .profile_id {
-    margin-bottom: 5px;
+    width: 100px;
+    height: 16px;
 }
 
 .profile_info {
@@ -95,7 +96,6 @@ body {
 .profile_name {
     width: 100px;
     height: 16px;
-    margin-bottom: 5px; /* Space below the name */
 }
 
 .content_details {
