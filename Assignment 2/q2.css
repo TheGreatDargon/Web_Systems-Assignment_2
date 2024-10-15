@@ -17,15 +17,19 @@ body {
 }
 .Home {
     margin-left: 50px;
+    color:gray;
 }
 .Moments {
     margin-left: 30px;
+    color:gray;
 }
 .Notifications {
     margin-left: 30px;
+    color:gray;
 }
 .Messages {
     margin-left: 30px;
+    color:gray;
 }
 .twitter_icon img {
     position: absolute;
