@@ -53,48 +53,44 @@ body {
     height: 200px;
     width: 200px;
     margin: 20px auto;
+    position: relative; /* Set relative positioning for the overlay */
     display: flex;
     flex-direction: column;
 }
+
+.banner {
+    position: relative; /* Allow positioning of child elements */
+    width: 100%;
+}
+
 .banner img {
-    width: 200px;
+    width: 100%; /* Full width of the profile */
     height: auto;
 }
-.profile_content {
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-    margin-top: 10px;
-    flex-direction: column;
+
+.profile_pic {
+    position: absolute; /* Overlay the profile picture */
+    left: 10px; /* Adjust as needed */
+    top: 50%; /* Center it vertically on the banner */
+    transform: translateY(-50%); /* Adjust for perfect vertical centering */
+    width: 50px; /* Set width for the profile picture */
+    height: 50px; /* Set height for the profile picture */
+    border-radius: 50%; /* Make it circular */
+    border: 2px solid white; /* Optional: white border */
 }
+
 .profile_info {
-    display: flex;
-    flex-direction: row;
+    margin-top: 40px; /* Space below the banner */
+    padding-left: 60px; /* Space for the profile picture */
 }
-.profile_pic{
-    width: 50px;
-    height: 67px;
-    margin-right: 10px;
-}
-.profile_pic img {
-    width: 50px;
-    height: 67px;
-}
+
 .profile_name {
-    width: 140px;
-    height: 67px;
-    margin-bottom: 5px;
+    margin-bottom: 5px; /* Space below the name */
 }
-.content_details{
-    display: flex;
-    flex-direction: row;
-}
-.Tweet_count {
-    width: 33%;
-}
-.Follower_count {
-    width: 33%;
-}
-.Followers {
-    width: 33%;
+
+.content_details {
+    display: flex; /* Flexbox for the details */
+    justify-content: space-between; /* Space items evenly */
+    width: 100%; /* Full width */
+    margin-top: auto; /* Push to the bottom */
 }
