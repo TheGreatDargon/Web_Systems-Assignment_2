@@ -92,7 +92,7 @@ body {
     display:flex;
     flex-direction: column;
 }
-.profile_name h5 {
+.profile_name p {
     margin-bottom: 0;
     font-size: 28px;
 }
