@@ -83,7 +83,7 @@ body {
 }
 .content_details{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 .Tweet_count {
     width: 33%;
