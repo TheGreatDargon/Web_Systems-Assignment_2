@@ -88,6 +88,9 @@ body {
     display:flex;
     flex-direction: column;
 }
+.profile_name h5 {
+    margin: 0;
+}
 
 .profile_id {
     height:10px;
