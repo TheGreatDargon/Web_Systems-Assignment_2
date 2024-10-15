@@ -46,13 +46,13 @@ body {
     margin-top: 51px;
     display:flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .profile {
     background-color: white;
     height: 300px;
     width: 300px;
-    margin: 20px auto;
     position: relative;
     flex-direction: column;
 }
