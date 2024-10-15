@@ -64,19 +64,12 @@ body {
 }
 
 .banner img {
-    width: 100%; /* Full width of the profile */
+    width: 100%;
     height: auto;
 }
 
 .profile_pic {
-    position: absolute; /* Overlay the profile picture */
-    left: 10px; /* Adjust as needed */
-    top: 50%; /* Center it vertically on the banner */
-    transform: translateY(-50%); /* Adjust for perfect vertical centering */
-    width: 50px; /* Set width for the profile picture */
-    height: 50px; /* Set height for the profile picture */
-    border-radius: 50%; /* Make it circular */
-    border: 2px solid white; /* Optional: white border */
+    margin-right: 10px;
 }
 .profile_pic img {
     width: 50px;
@@ -84,18 +77,20 @@ body {
 }
 
 .profile_id {
-    width: 100px;
-    height: 16px;
+    margin-top: 5px;
 }
 
 .profile_info {
-    margin-top: 40px; /* Space below the banner */
-    padding-left: 60px; /* Space for the profile picture */
+    display:flex;
+    align-items: flex-end;
+    margin-top: 40px;
+    padding-left: 60px;
 }
 
 .profile_name {
-    width: 100px;
-    height: 16px;
+    display:flex;
+    align-items: flex-end;
+    flex-direction: column;
 }
 
 .content_details {
