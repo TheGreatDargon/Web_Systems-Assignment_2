@@ -21,6 +21,7 @@ body {
     flex-direction: row;
 }
 .Home {
+    margin-left: 140px;
     color:gray;
 }
 .Moments {
