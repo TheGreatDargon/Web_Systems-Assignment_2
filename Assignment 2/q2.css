@@ -124,6 +124,7 @@ body {
 
 #post1 {
     display: flex;
+    border-bottom: 1px solid gray;
     flex-direction: row;
     align-items: center;
     width: 450px;
@@ -136,6 +137,7 @@ body {
 }
 #post2 {
     display: flex;
+    border-bottom: 1px solid gray;
     flex-direction: row;
     align-items: center;
     width: 100%;
@@ -148,6 +150,7 @@ body {
 }
 #post3 {
     display: flex;
+    border-bottom: 1px solid gray;
     flex-direction: row;
     align-items: center;
     width: 100%;
@@ -160,6 +163,7 @@ body {
 }
 #post4 {
     display: flex;
+    border-bottom: 1px solid gray;
     flex-direction: row;
     align-items: center;
     width: 100%;
@@ -172,6 +176,7 @@ body {
 }
 #post5 {
     display: flex;
+    border-bottom: 1px solid gray;
     flex-direction: row;
     align-items: center;
     width: 100%;
