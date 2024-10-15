@@ -70,8 +70,6 @@ body {
 
 .profile_info {
     display:flex;
-    margin-top: -25px;
-    position: absolute;
 }
 
 .profile_pic {
