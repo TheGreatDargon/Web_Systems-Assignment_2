@@ -50,8 +50,8 @@ body {
 
 .profile {
     background-color: white;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     margin: 20px auto;
     position: relative; /* Set relative positioning for the overlay */
     display: flex;
@@ -76,10 +76,6 @@ body {
     height: 50px;
 }
 
-.profile_id {
-    margin-top: 0;
-}
-
 .profile_info {
     display:flex;
     align-items: flex-end;
@@ -90,6 +86,10 @@ body {
 .profile_name {
     display:flex;
     flex-direction: column;
+}
+
+.profile_id {
+    margin-top: 0;
 }
 
 .content_details {
